@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Github Repositories List</string>
+    <string name="search_hint">enter user name</string>
+    <string name="action_settings">action settings</string>
+</resources>
